@@ -1,0 +1,11 @@
+{
+  "name": "Demoblaze1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dharendrarayamajhi/demoblaze.git",
+  "author": "dharendrarayamajhi <dharendra.rayamajhi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.3.0"
+  }
+}
