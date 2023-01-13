@@ -5,6 +5,9 @@
   "repository": "git@github.com:dharendrarayamajhi/demoblaze.git",
   "author": "dharendrarayamajhi <dharendra.rayamajhi@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "ff": "cypress open --browser firefox --e2e"
+  },
   "dependencies": {
     "cypress": "^12.3.0"
   }
